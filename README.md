@@ -1,5 +1,12 @@
 # Radio Receiver
 
+<br>
+
+> [!NOTE]
+> I'm currently working on making this project public. As it is a University course project, I have to filter some content to maintain Academic Integrity. 
+
+<br>
+
 ![head](https://github.com/thejoonho/radio-receiver/blob/main/images/radio-receiver.jpeg)
 
 📻 <project description>
