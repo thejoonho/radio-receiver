@@ -12,9 +12,8 @@
 📻 <project description>
 
 ## 🗄️ Project Files
-
-- 🪄 **Altium Designer:** [Radio Receiver]()
-- 📑 **Google Doc:** [Project Documentation]()
+<!-- - 🪄 **Altium Designer:** [Radio Receiver]() -->
+<!-- - 📑 **Google Doc:** [Project Documentation]() -->
 - 🎬 **YouTube:** [Project Demo Video](https://www.youtube.com/watch?v=JGLR_uTyv3c)
 
 ## 💐 Acknowledgements
