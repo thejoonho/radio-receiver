@@ -20,7 +20,7 @@
 
 
 - 🎬 **YouTube:** [Project Demo Video](https://www.youtube.com/watch?v=JGLR_uTyv3c)
-- 🌁 **GitHub:** [Additional Project Images]([https://github.com/thejoonho/lv-bomba/tree/main/images](https://github.com/thejoonho/radio-receiver/tree/main/images))
+- 🌁 **GitHub:** [Additional Project Images](https://github.com/thejoonho/radio-receiver/tree/main/images)
 
 ## 💐 Acknowledgements
 
