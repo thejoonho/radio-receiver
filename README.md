@@ -14,6 +14,11 @@
 ## 🗄️ Project Files
 <!-- - 🪄 **Altium Designer:** [Radio Receiver]() -->
 <!-- - 📑 **Google Doc:** [Project Documentation]() -->
+
+
+<!-- Designed and assembled the front end of a radio receiver PCB, including RF filtering, downconverter, and an in-phase & quadrature amplifier, resulting in one of only two fully functional front-end designs in the course.-->
+
+
 - 🎬 **YouTube:** [Project Demo Video](https://www.youtube.com/watch?v=JGLR_uTyv3c)
 
 ## 💐 Acknowledgements
