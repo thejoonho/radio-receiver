@@ -1,11 +1,6 @@
 # Radio Receiver
 
-<br>
-
-> [!NOTE]
-> I'm currently working on making this project public. As it is a University course project, I have to filter some content to maintain Academic Integrity. 
-
-<br>
+![head](https://github.com/thejoonho/radio-receiver/blob/main/images/radio-receiver.jpeg)
 
 📻 As part of my ECE295 hardware design course project, our team built a radio receiver consisting of a limiter, bandpass filter, quadrature mixer, low-pass filter, and amplifier. We researched, simulated, prototyped, designed, assembled, and validated the system, which was later successfully integrated into a flexible radio transceiver.
 
