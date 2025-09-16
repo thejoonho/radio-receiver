@@ -2,7 +2,7 @@
 
 ![head](https://github.com/thejoonho/radio-receiver/blob/main/images/radio-receiver.jpeg)
 
-📻 As part of my ECE295 hardware design course project, our team built a radio receiver consisting of a limiter, bandpass filter, quadrature mixer, low-pass filter, and amplifier. We researched, simulated, prototyped, designed, assembled, and validated the system, which was later successfully integrated into a flexible radio transceiver.
+📻 As part of my second year hardware design course (ECE295) project, our team built a radio receiver consisting of a limiter, bandpass filter, quadrature mixer, low-pass filter, and amplifier. We researched, simulated, prototyped, designed, assembled, and validated the system, which was later successfully integrated into a flexible radio transceiver.
 
 🌟 Our team was awarded the _ISTEP Best Communication Award_ for our exemplary performance and academic achievement in ECE295: Hardware Design and Communication.
 
