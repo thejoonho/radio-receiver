@@ -7,9 +7,7 @@
 🌟 Our team was awarded the _[ISTEP Best Communication Award](https://github.com/thejoonho/radio-receiver/blob/main/award.pdf)_ for our exemplary performance and academic achievement in ECE295: Hardware Design and Communication.
 
 ## 🗄️ Project Files
-<!-- - 🪄 **Altium Designer:** [Radio Receiver]() -->
-<!-- - 📑 **Google Doc:** [Project Documentation]() -->
-
+- 📑 **Google Doc:** (Will be uploaded soon) 
 - 🎬 **YouTube:** [Project Demo Video](https://www.youtube.com/watch?v=JGLR_uTyv3c)
 
 >[!NOTE]
