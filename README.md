@@ -9,7 +9,7 @@
 
 ![head](https://github.com/thejoonho/radio-receiver/blob/main/images/radio-receiver.jpeg)
 
-📻 <project description>
+📻 As part of my ECE295 hardware design course project, my team and I built a radio receiver consisting of a limiter, bandpass filter, quadrature mixer, low-pass filter, and amplifier. We researched, simulated, prototyped, designed, assembled, and validated the system, which was later successfully integrated into a flexible radio transceiver.
 
 ## 🗄️ Project Files
 <!-- - 🪄 **Altium Designer:** [Radio Receiver]() -->
