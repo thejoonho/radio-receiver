@@ -11,7 +11,11 @@
 <!-- - 📑 **Google Doc:** [Project Documentation]() -->
 
 - 🎬 **YouTube:** [Project Demo Video](https://www.youtube.com/watch?v=JGLR_uTyv3c)
-- 🌁 **GitHub:** [Additional Project Images](https://github.com/thejoonho/radio-receiver/tree/main/images)
+
+>[!NOTE]
+> The YouTube video is filmed from the front side of the flexible radio transceiver so our team's radio receiver is difficult to see. However, the following image is what you would see from the back side (You'll our sexy black radio receiver 😎):
+>
+> ![flexible radio transceiver (back side)](https://github.com/thejoonho/radio-receiver/blob/main/images/radio-receiver-integrated1.jpeg)
 
 ## 💐 Acknowledgements
 
