@@ -1,10 +1,15 @@
 # Radio Receiver
 
+>[!IMPORTANT]
+> As this is part of a University of Toronto course project, I cannot release the schematic file publicly. However, the schematic will be available upon request.
+
+
 ![head](https://github.com/thejoonho/radio-receiver/blob/main/images/radio-receiver.jpeg)
 
 📻 As part of my second year hardware design course (ECE295) project, our team built a radio receiver consisting of a limiter, bandpass filter, quadrature mixer, low-pass filter, and amplifier. We researched, simulated, prototyped, designed, assembled, and validated the system, which was later successfully integrated into a flexible radio transceiver.
 
 🌟 Our team was awarded the _[ISTEP Best Communication Award](https://github.com/thejoonho/radio-receiver/blob/main/award.pdf)_ for our exemplary performance and academic achievement in ECE295: Hardware Design and Communication.
+
 
 ## 🗄️ Project Files
 - 📑 **Google Doc:** (Will be uploaded soon) 
