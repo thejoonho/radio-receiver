@@ -12,7 +12,7 @@
 
 
 ## 🗄️ Project Files
-- 📑 **Google Doc:** [Project Documentation](https://docs.google.com/document/d/1ydzbSV8x-Agx8igMAtDFCMfOj00mCatHvdR5DX799Rc/edit?usp=sharing)
+<!-- - 📑 **Google Doc:** [Project Documentation](https://docs.google.com/document/d/1ydzbSV8x-Agx8igMAtDFCMfOj00mCatHvdR5DX799Rc/edit?usp=sharing) -->
 - 🎬 **YouTube:** [Project Demo Video](https://www.youtube.com/watch?v=JGLR_uTyv3c)
 
   > The YouTube video is filmed from the front side of the flexible radio transceiver so our team's radio receiver is difficult to see. However, the following   image is what you would see from the back side (You'll see our sexy black radio receiver 😎):
